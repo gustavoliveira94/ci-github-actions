@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "suppressImplicitAnyIndexErrors": true,
+      "allowJs": true,
+      "esModuleInterop": true,
+      "strict": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "allowUmdGlobalAccess": true,
+      "noEmit": true,
+      "baseUrl": "./",
+    },
+    "exclude": ["node_modules"]
+  }
+  
